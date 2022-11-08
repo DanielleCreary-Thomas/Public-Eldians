@@ -1,0 +1,44 @@
+[
+  {
+    "username": "Bob",
+    "type": "BS",
+    "accountBalance": 105.56,
+    "inventory": [
+      {
+        "uniqueID": 1
+      }
+    ],
+    "newFunds": 0.0,
+    "transactionHistory": [],
+    "newFundsToday": 0.0
+  },
+  {
+    "username": "Alice",
+    "type": "SS",
+    "accountBalance": 117.56,
+    "inventory": [],
+    "newFunds": 0.0,
+    "transactionHistory": [],
+    "newFundsToday": 0.0
+  },
+  {
+    "username": "admin1",
+    "type": "AA",
+    "accountBalance": 112.0,
+    "inventory": [
+      {
+        "uniqueID": 1
+      },
+      {
+        "uniqueID": 3
+      }
+    ],
+    "newFunds": 0.0,
+    "transactionHistory": [
+      "Created Alice user",
+      "Created Bob user",
+      "Bought Clue from Alice"
+    ],
+    "newFundsToday": 0.0
+  }
+]

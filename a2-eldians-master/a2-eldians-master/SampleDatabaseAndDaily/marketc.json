@@ -1,0 +1,7 @@
+{
+  "auctionSale": false,
+  "gamesOnSale": {
+    "Alice": [{"uniqueID":  1}, {"uniqueID":  3}],
+    "admin1":[{"uniqueID":  2}]
+  }
+}
